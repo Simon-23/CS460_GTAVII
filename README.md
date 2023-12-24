@@ -32,7 +32,8 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 #### Roads
 ![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/9653e156-d935-4e15-8f1a-877d27cb5f52)
 #### Day and night system and weather system
-![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/aa4561fb-d739-49bb-882d-db284bfc9025)
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/4bb4c805-875c-46aa-9138-9d65d32c4b02)
+
 
 
 # Installation
