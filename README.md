@@ -26,7 +26,7 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 ![Alt text](image-10.png)
 ### Cars
 
-### Landscape
+### Landscape - Peng-Lin Chen
 ### Boston Common
 ![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/503a59bf-d327-4b9e-9c3a-ffa8d5197b6b)
 #### Roads
