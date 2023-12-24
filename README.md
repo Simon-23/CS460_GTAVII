@@ -12,6 +12,7 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 # Visuals
 ### Weapons Chanjewon
 ![Alt text](<Screenshot 2023-12-23 204141.png>)
+The following shows the improvement I had in scripting between each weapon.
 #### First gun 
 ![Alt text](image-2.png)
 #### Second gun 
