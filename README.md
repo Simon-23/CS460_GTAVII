@@ -76,12 +76,5 @@ In the future, improvements will be making the map bigger and having more detail
 
 
 # Acknowledgment
-* To Professor Haehn for teaching us and giving us the freedom to use what we learned to make projects that show skill but also interest us
-
-* To Steven for the great effort in rendering Boston and filling in the roads
-* To Simon for the car system, types, and gui for summoning and dismissing it on the spot
-* To Chanjewon for making a variety of weapons and simple Ai spawner 
 * The author of weather system - parker02311
 * The author of Roads Plugin-Beta and City Loader Render Real - paricdil
-* The roblox community and dev forums
-
