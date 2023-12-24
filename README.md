@@ -24,6 +24,10 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 
 
 # Common Issues
+### Weapons
 
+### Cars
+
+### Landscape
 
 # Acknowledgment
