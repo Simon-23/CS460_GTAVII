@@ -24,7 +24,10 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 ![Alt text](image-8.png)
 #### Enemies
 ![Alt text](image-10.png)
-### Cars
+
+### Cars - Simon Rong
+![car_pics](https://github.com/Simon-23/CS460_GTAVII/assets/75641024/12c39dfe-a082-4b04-9295-a7ff424e241e)
+
 
 ### Landscape - Peng-Lin Chen
 ### Boston Common
@@ -33,6 +36,7 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 ![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/9653e156-d935-4e15-8f1a-877d27cb5f52)
 #### Day and night system and weather system
 ![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/4bb4c805-875c-46aa-9138-9d65d32c4b02)
+![sunny](https://github.com/Simon-23/CS460_GTAVII/assets/75641024/3e318acb-f9a5-4ec8-9eb6-485aa3fef87a)
 
 
 
@@ -57,24 +61,56 @@ To install Roblox Studio:
 
 5. After Studio finishes installing, a pop-up confirmation displays. Click the Launch Studio button.
 
-6. Sign in to Studio with your Roblox account. If you don't have an account, create one at [roblox.com](roblox.com) and follow the tips on [securing your account.](https://en.help.roblox.com/hc/en-us/articles/203313380-Account-Security-Theft-Keeping-your-Account-Safe-) 
+6. Sign in to Studio with your Roblox account. If you don't have an account, create one at [roblox.com](https://www.roblox.com/) and follow the tips on [securing your account.](https://en.help.roblox.com/hc/en-us/articles/203313380-Account-Security-Theft-Keeping-your-Account-Safe-) 
 
-Once you have installed Roblox Studio, you will be able to access the game files using the Roblox Studio Launcher.
+Once you have installed Roblox Studio, you will be able to access this game files in the above files attached to this repository.
 
 
 # Usage
+To play this game make sure you have created a roblox account. After that you can click this link to play the game: [roblox.com/games/15554628816/GTA-VII](https://www.roblox.com/games/15554628816/GTA-VII) 
 
 
 # Common Issues
 There is a larger amount of lag due to the large amounts of scripts and building being rendered. What we would like to do as improvement is creating an overhead ai controller for enemies to reduce the script usage and figure out how to better render buildings within player view distance in order to improve performance. Also we needed to have had a lot more testing where we tried playing the game since there are numerous bugs, many due to lag. Overall, we would for future improvement redo and revise all the scripts and models to better decorate the map and make sure our features are working and not lagging so much.
 ### Weapons and Enemies
-For the future, improvements would be made to all the gun scripts and animations in order to make sure they have reloding and ammo counter along with raycasting and bullet creation. I had kept them the way they were to show the improvement I had but for future work I would need to make each weapon work before I add more types. What also needs to be done is the implementation of a customization gui for weapons skins and more types of enemies.
+For the future, improvements would be made to all the gun scripts and animations in order to make sure they have reloading and ammo counter along with raycasting and bullet creation. I had kept them the way they were to show the improvement I had but for future work I would need to make each weapon work before I add more types. What also needs to be done is the implementation of a customization gui for weapons skins and more types of enemies.
+
 ### Cars
+Due to the lag from having a massive amounts of assets in the game, sometimes car sounds can stutter and result in innacurate noises. Rare case that cars cannot be deleted. Future improvements would have better script optimization as the sounds
+were sometimes too quiet or too loud, better gui to show preview of the car before spawning it.
 
 ### Landscape
 In the future, improvements will be making the map bigger and having more details until it looks like a real downtown Boston. Also, I would implement my own weather system and have different wallpaper on the building with the night and day changes. For the city detail, I need to have dynamic wallpaper, sidewalks, and traffic lights.
 
 
 # Acknowledgment
-* The author of weather system - parker02311
-* The author of Roads Plugin-Beta and City Loader Render Real - paricdil
+Special thanks to:
+
+Chanjewon Ros: Created all weapon models including the rifles, pistol, shotgun and knife with scripts. Also created the 'dummy' models with scripts. 
+
+Steven Chen (Peng lin chen): Created the beautiful downtown boston map and added/modified roads and building textures. Added dynamic weather system.
+
+Simon Rong (me): Created the car models and implemented/modified scripts for sound and performance of each vehicle. Helped with building textures.
+
+Special thanks to all the roblox youtube tutorial videos and the roblox community developer forums that helped us create this game.
+
+We also want to shoutout the CS460 Graphics course here at Umass Boston for making this project possible. You can check out professor Haehn's CS460 Graphics course website 
+here [CS460.org](https://cs460.org/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
