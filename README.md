@@ -76,5 +76,5 @@ In the future, improvements will be making the map bigger and having more detail
 
 
 # Acknowledgment
-"." The author of weather system - parker02311
-"." The author of Roads Plugin-Beta and City Loader Render Real - paricdil
+* The author of weather system - parker02311
+* The author of Roads Plugin-Beta and City Loader Render Real - paricdil
