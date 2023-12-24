@@ -26,7 +26,13 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 ![Alt text](image-10.png)
 ### Cars
 
-### Landscape
+### Landscape - Peng-Lin Chen
+### Boston Common
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/503a59bf-d327-4b9e-9c3a-ffa8d5197b6b)
+#### Roads
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/9653e156-d935-4e15-8f1a-877d27cb5f52)
+#### Day and night system and weather system
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/aa4561fb-d739-49bb-882d-db284bfc9025)
 
 
 # Installation
@@ -64,12 +70,8 @@ There is a larger amount of lag due to the large amounts of scripts and building
 For the future, improvements would be made to all the gun scripts and animations in order to make sure they have reloding and ammo counter along with raycasting and bullet creation. Also is the implementation of a customization gui for weapons skins and more types of enemies.
 ### Cars
 
-### Landscape - Peng-Lin Chen
-### Boston Common
-![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/503a59bf-d327-4b9e-9c3a-ffa8d5197b6b)
-#### Roads
-![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/9653e156-d935-4e15-8f1a-877d27cb5f52)
-#### Day and night system
+### Landscape
+
 
 
 # Acknowledgment
