@@ -15,24 +15,26 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 Here is the list of weapons, from when I first started to when I finished, with each one showing progress with my understanding of lua and scripting weapons. I was unable to introduce the skin customization that I had stated working towards in an earlier progress report since I had greatly unexpected the depth at which I would have to learn on modeling and scripting guns. 
 #### First gun script
 ![Alt text](image-2.png)
-This was my first attempt and it is very basic without any projectiles that players can visually track as you can just point and click to harm enemies.To script in lua for weapons you have to make sure you state your local variables first by setting them to a value, list, severservices that are provided by roblox or to nil, in which you can later fill out through code to change the value.The code below is the barebones of making a gun without any advance technique of ray casting to track the bullet since it is just a hit scan when you click.
+This was my first attempt and it is very basic without any projectiles that players can visually track as you can just point and click to harm enemies. The code below is the barebones of making a gun without any advance technique, such as ray casting, to track the bullet since it is just a hit scan when you click.
 ![Alt text](image.png)
 #### Second gun script
 ![Alt text](image-3.png)
-
+This revolver is the second gun I scripted having more codes for more functions as I do introduce a very small projectile that can hit enemies. I gave it a skin thinking at the time I will get towards customizing it before further working on more weapons. 
 ![Alt text](image-1.png)
 #### Third gun script
 ![Alt text](image-4.png)
-
+This attempt introduces raycasting an advance technique for tracking movement along with my experimentation with creating bullets that are replicaed and destroyed once used or out of rendering. 
 ![Alt text](image-5.png)
 #### Fourth gun script
 ![Alt text](image-6.png)
-
+This was my last gun where I continued with ray casting but didn't continue with the replicated bullets as I instead worked towards an ammo counter and reloading functions. 
 ![Alt text](image-7.png)
 #### Melee weapon scripts
 ![Alt text](image-8.png)
 
 ![Alt text](image-9.png)
+#### Enemies
+I was only able to create a very simple AI for the enemies where you have to get very close to 
 ### Cars
 
 ### Landscape
