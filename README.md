@@ -63,6 +63,12 @@ Once you have installed Roblox Studio, you will be able to access the game files
 
 ### Cars
 
-### Landscape
+### Landscape - Peng-Lin Chen
+### Boston Common
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/503a59bf-d327-4b9e-9c3a-ffa8d5197b6b)
+#### Roads
+![image](https://github.com/Simon-23/CS460_GTAVII/assets/112576339/9653e156-d935-4e15-8f1a-877d27cb5f52)
+#### Day and night system
+
 
 # Acknowledgment
