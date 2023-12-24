@@ -10,9 +10,20 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 
 
 # Visuals
+### Weapons
+
+### Cars
+
+### Landscape
+
 
 # Installation
 
+
 # Usage
+
+
+# Common Issues
+
 
 # Acknowledgment
