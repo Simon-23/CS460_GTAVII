@@ -59,6 +59,7 @@ Once you have installed Roblox Studio, you will be able to access the game files
 
 
 # Common Issues
+There is a larger amount of lag due to the large amounts of scripts and building being rendered. What we would like to do as improvement is creating an overhead ai controller for enemies to reduce the script usage and figure out how to better render buildings within player view distance in order to improve performance. 
 ### Weapons
 
 ### Cars
