@@ -59,9 +59,9 @@ Once you have installed Roblox Studio, you will be able to access the game files
 
 
 # Common Issues
-There is a larger amount of lag due to the large amounts of scripts and building being rendered. What we would like to do as improvement is creating an overhead ai controller for enemies to reduce the script usage and figure out how to better render buildings within player view distance in order to improve performance. 
-### Weapons
-
+There is a larger amount of lag due to the large amounts of scripts and building being rendered. What we would like to do as improvement is creating an overhead ai controller for enemies to reduce the script usage and figure out how to better render buildings within player view distance in order to improve performance. Also we needed to have had a lot more testing where we tried playing the game since there are numerous bugs, many due to lag, but also due to code errors. 
+### Weapons and Enemies
+For the future, improvements would be made to all the gun scripts and animations in order to make sure they have reloding and ammo counter along with raycasting and bullet creation. Also is the implementation of a customization gui for weapons skins and more types of enemies.
 ### Cars
 
 ### Landscape - Peng-Lin Chen
