@@ -12,6 +12,10 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 # Visuals
 ### Weapons
 ![Alt text](<Screenshot 2023-12-23 204141.png>)
+#### First pistol attempt
+![Alt text](image.png)
+
+
 ### Cars
 
 ### Landscape
