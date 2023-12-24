@@ -72,7 +72,7 @@ For the future, improvements would be made to all the gun scripts and animations
 ### Cars
 
 ### Landscape
-
+In the future, improvements will be making the map bigger and having more details until it looks like a real downtown Boston. Also, I would implement my own weather system and have different wallpaper on the building with the night and day changes. For the city detail, I need to have dynamic wallpaper, sidewalks, and traffic lights.
 
 
 # Acknowledgment
