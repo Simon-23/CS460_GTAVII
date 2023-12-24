@@ -20,7 +20,6 @@ Feel free to view/modify the game files yourself [here](#Installation). To play 
 ![Alt text](image-4.png)
 #### Fourth gun 
 ![Alt text](image-6.png)
-![Alt text](image-7.png)
 #### Melee weapon 
 ![Alt text](image-8.png)
 #### Enemies
